@@ -1,5 +1,5 @@
 
-global workshop "C:\Users\wb562356\OneDrive - WBG\Documents\Research\Malaysia\Workshop\MYS June 2024 Workshop resource\Applied data and do\"
+global workshop "C:\Users\Applied data and do\"
 
 // necessary inequality ado
 capture ssc install sumdist
